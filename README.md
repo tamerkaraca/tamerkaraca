@@ -60,7 +60,13 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/tamerkaraca/tamerkaraca/output/pacman-contribution-graph.svg">
 </picture>
 
-<img src="https://raw.githubusercontent.com/tamerkaraca/tamerkaraca/ff18c095622365c5db78b54458afa0a9530bf0d1/snake.svg" alt="Snake animation" />
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tamerkaraca/tamerkaraca/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tamerkaraca/tamerkaraca/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/tamerkaraca/tamerkaraca/output/github-contribution-grid-snake.svg">
+</picture>
 
 ###
 
@@ -70,14 +76,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tamerkaraca&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true&order=2" height="150" alt="languages graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=tamerkaraca&radius=16&theme=chartreuse-dark&area=true&order=5&hide_border=true&hide_title=true" height="300" alt="activity-graph graph"  />
 </div>
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tamerkaraca/tamerkaraca/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tamerkaraca/tamerkaraca/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/tamerkaraca/tamerkaraca/output/github-contribution-grid-snake.svg">
-</picture>
 
 ###
 
