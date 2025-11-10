@@ -54,7 +54,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/tamerkaraca/tamerkaraca/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/tamerkaraca/tamerkaraca/ff18c095622365c5db78b54458afa0a9530bf0d1/snake.svg" alt="Snake animation" />
 
 ###
 
