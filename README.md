@@ -9,7 +9,6 @@
 
 ## 🙋‍♂️ About Me
 
-- 📍 Based in **Adana, Türkiye**
 - 💻 Building full stack web applications with **Laravel, Filament and Vue.js**
 - 🐳 Self-hosting and deploying projects with **Docker & Coolify**
 - 🐧 Daily driver: **Linux** — I like automating my own dev environment
