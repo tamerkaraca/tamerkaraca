@@ -12,7 +12,7 @@ jobs:
   generate:
     permissions:
       contents: write
-    runs-on: [self-hosted, tamerkaraca] # hesap faturalama kilidinde; yerel runner
+    runs-on: ubuntu-latest # herkese açık depoda ücretsiz GitHub runner
     timeout-minutes: 5
 
     steps:
